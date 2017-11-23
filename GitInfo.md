@@ -2,7 +2,7 @@
 
   * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-# Git command notes
+# Git on Windows command notes
 
 ## Initalizing a newly created GitHub repository
 
