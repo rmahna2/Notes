@@ -6,7 +6,7 @@
 
 ## Initalizing a newly created GitHub repository
 
-###Create a new local repository (new) using the command line and push to GitHub
+### Create a new local repository (new) using the command line and push to GitHub
   * md new
   * cd new
   * echo ## Git command notes>> GitSteps.md
@@ -16,8 +16,8 @@
   * git remote add origin https://github.com/rmahna2/Notes.git
   * git push -u origin master
   
-###Push an existing lorepository from the command line
+### Push an existing lorepository from the command line
   * git remote add origin https://github.com/rmahna2/Notes.git
   * git push -u origin master
   
-###Import code from another repository
+### Import code from another repository
